@@ -1,8 +1,10 @@
-from random import *
 import numpy as np
 import pyautogui as pg
-from tkinter import *
 import tkinter as tk
+
+from random import *
+from tkinter import *
+from tkinter import ttk
 
 class PLANNEUR():
     def __init__(self):
